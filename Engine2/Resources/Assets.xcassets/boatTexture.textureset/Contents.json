@@ -1,0 +1,21 @@
+{
+  "properties" : {
+    "interpretation" : "data"
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "textures" : [
+    {
+      "idiom" : "universal",
+      "filename" : "Universal Display P3.mipmapset",
+      "display-gamut" : "display-P3"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Universal sRGB.mipmapset",
+      "display-gamut" : "sRGB"
+    }
+  ]
+}
